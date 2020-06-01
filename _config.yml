@@ -1,11 +1,11 @@
 # Site settings
-author: Rumiko Acopa Rios
-title: 
+author: Rumiko Acopa
+title: Why I Chose Software Engineering
 header-img: img/home-bg.png
 email: rumikorios@gmail.com
-copyright_name: Rumiko Acopa Rios
+copyright_name: Rumiko Acopa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  new beginning as a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RumikoAcopa
